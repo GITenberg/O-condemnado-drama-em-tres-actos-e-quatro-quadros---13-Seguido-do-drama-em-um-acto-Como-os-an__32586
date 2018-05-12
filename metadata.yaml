@@ -21,6 +21,8 @@ creator:
     - http://pt.wikipedia.org/wiki/Camilo_Castelo_Branco
     - http://en.wikipedia.org/wiki/Camilo_Castelo_Branco
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32586#O-condemnado-drama-em-tres-actos-e-quatro-quadros---13-Seguido-do-drama-em-um-acto-Como-os-an_
 gutenberg_bookshelf: PT Teatro
 gutenberg_issued: '2010-05-29'
 gutenberg_type: Text
